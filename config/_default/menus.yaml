@@ -6,10 +6,10 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
-  - name: Projects
+    weight: 15
+  - name: Research
     url: 'project/'
-    weight: 20
+    weight: 30
 
 
 # Link to a PDF of your resume/CV from the menu.
