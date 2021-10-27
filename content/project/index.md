@@ -3,7 +3,7 @@ title: Research Projects
 date: 2021-10-27T04:05:14.144Z
 featured: false
 ---
-<h2 style="background-color:black; padding: 5px; width:fit-content;border-radius:10px;color:white"> Pronoun Processing </h2>
+<h2 style="background-color:black; padding: 5px; width:fit-content;border-radius:10px;color:white"> <b>Pronoun Processing </b></h2>
 
 **How are production and interpretation related in pronoun processing?**
 
@@ -24,4 +24,4 @@ The use of pronouns has been long argued to be associated with a concept 'access
 * **Lam, S.-Y.**\* and Hwang, H. (2021). Topicality is not the unified scale for pronoun production: Evidence from Mandarin Chinese. *In draft.*
 
 
-<h2 style="background-color:black; padding: 5px; width:fit-content;border-radius:10px;color:white"> Cantonese Linguistics </h2>
+<h2 style="background-color:black; padding: 5px; width:fit-content;border-radius:10px;color:white"> <b>Cantonese Linguistics </b></h2>
