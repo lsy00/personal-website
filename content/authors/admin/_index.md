@@ -18,7 +18,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! My name is Suet-Ying Lam. I am currently a senior undergraduate from HKU, with double majors in Linguistics and Computer Science. I am currently working with [Dr. Heeju Hwang](https://sites.google.com/site/heejuhwang/home?authuser=0) at HKU Language Processing Lab, focusing on the following questions: 
+Hi! My name is Suet-Ying Lam. I am currently a senior undergraduate from HKU, with double majors in Linguistics and Computer Science. I am  working with [Dr. Heeju Hwang](https://sites.google.com/site/heejuhwang/home?authuser=0) at HKU Language Processing Lab, focusing on the following questions: 
 
 1. How are production and interpretation related in pronoun processing?
 2. What determines the production of pronouns?
