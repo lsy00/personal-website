@@ -11,9 +11,8 @@ Tradition views in pronoun processing usually seem production and interpretation
 
 * **Lam, S.-Y.*** & Hwang, H. (2021). Interpretation of null pronouns in Mandarin Chinese does not follow a Bayesian model. Short talk presented at the 34th Annual CUNY conference on Human Sentence Processing. [[Abstract](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_126.pdf)]
 
-</section>
 <hr>
-<section style="border-radius:5pt;padding:3pt;margin:7px;padding-top:0">
+
 
 **What determines the production of pronouns?**
 
