@@ -3,11 +3,10 @@ title: Research Projects
 date: 2021-10-27T04:05:14.144Z
 featured: false
 ---
-
-## **Pronoun Processing**
-<section style="border-radius:5pt;padding:3pt;margin:7px;margin-top:0px;padding-top:0">
+<h2 style="background-color:black; padding: 5px; width:fit-content;border-radius:10px;color:white"> Pronoun Processing </h2>
 
 **How are production and interpretation related in pronoun processing?**
+
 
 Tradition views in pronoun processing usually seem production and interpretation as the mirror images of each other. However, recent research has suggested that the two processes are not guided by the same set of factors, and therefore proposed a Bayesian approach to account for their relationship. My research investigated the validity of the new model in Chinese with new contexts. Apart from overt pronouns like English *s/he,* Mandarin also allows an unpronounced null pronoun (e.g., Ada received a letter, so Ø wrote a reply). Although the interpretation of overt pronouns can be well predicted by the Bayesian Model, the interpretation of null pronouns was not, and neither of the existing models was able to capture it. I am still working on this topic to see how this relationship differs in null pronouns and overt pronouns.
 
@@ -24,7 +23,5 @@ The use of pronouns has been long argued to be associated with a concept 'access
 * Hwang, H.\*,**Lam, S.-Y.**,Ni, W., Ren, H. *(2020).The role of grammatical role and thematic role predictability in reference form production in Mandarin Chinese.* Under Review.
 * **Lam, S.-Y.**\* and Hwang, H. (2021). Topicality is not the unified scale for pronoun production: Evidence from Mandarin Chinese. *In draft.*
 
-</section>
-<hr>
 
-### Cantonese Linguistics
+<h2 style="background-color:black; padding: 5px; width:fit-content;border-radius:10px;color:white"> Cantonese Linguistics </h2>
