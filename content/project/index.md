@@ -5,9 +5,7 @@ featured: false
 ---
 
 ### **Pronoun Processing**
-
-<section style="background-color:AliceBlue;border-radius:5pt;padding:3pt;margin:7px">
-
+<section style="background-color:AliceBlue;border-radius:5pt;padding:3pt;margin:7px;margin-top:0px;padding-top:0">
 
 **How are production and interpretation related in pronoun processing?**
 
@@ -17,7 +15,7 @@ Tradition views in pronoun processing usually seem production and interpretation
 
 </section>
 
-<section style="background-color:AliceBlue;border-radius:5pt;padding:3pt;margin:7px">
+<section style="background-color:AliceBlue;border-radius:5pt;padding:3pt;margin:7px;padding-top:0">
 
 **What determines the production of pronouns?**
 
