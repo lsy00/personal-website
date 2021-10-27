@@ -11,7 +11,7 @@ organizations:
   - name: The University of Hong Kong
 education:
   courses:
-    - course: B.A. in Linguistics and Computer Science
+    - course: B.A. in Linguistics and Computer Science (Expected 2022)
       institution: The University of Hong Kong
       year: ""
 email: ""
