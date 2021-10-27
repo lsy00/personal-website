@@ -4,7 +4,7 @@ date: 2021-10-27T04:05:14.144Z
 featured: false
 ---
 
-### **Pronoun Processing**
+## **Pronoun Processing**
 <section style="background-color:AliceBlue;border-radius:5pt;padding:3pt;margin:7px;margin-top:0px;padding-top:0">
 
 **How are production and interpretation related in pronoun processing?**
