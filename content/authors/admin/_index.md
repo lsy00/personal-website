@@ -25,7 +25,7 @@ Hi! My name is Suet-Ying Lam. I am currently a senior undergraduate from HKU, wi
 
 Apart from pronoun processing, I am also supervised by [Prof. Stephen Matthews](https://professorstephenmatthews.godaddysites.com/) to investigate the semantics and syntax of Cantonese double object constructions. 
 
-You may find more details of my research projects as well as my outcomes in the Research tab.
+You may find more details of my research projects as well as outcomes in the [Research tab](https://sylam.netlify.app/project/).
 
 **About how to pronounce my name:** it can be roughly transcribed as \[syʔ yɪŋ], or in Mandarin \[ɕuə yiŋ]. If you still find it difficult, \[yɪŋ] or \[yiŋ] is also fine.
 
