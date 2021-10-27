@@ -4,28 +4,7 @@ date: 2021-10-27T04:05:14.144Z
 featured: false
 
 ---
----
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 1
-
-# Section title
-title: 
-
-# Section subtitle
-subtitle:
-
-# Section design
-design:
-  # Use a 1-column layout
-  columns: "1"
----
 ### **Pronoun Processing**
 **How are production and interpretation related in pronoun processing?**
 
