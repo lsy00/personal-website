@@ -14,7 +14,7 @@ Tradition views in pronoun processing usually seem production and interpretation
 
 The use of pronouns has been long argued to be associated with a concept 'accessibility'. The more accessible the referent is, the more reduced forms will be used for it. Earlier research recognized accessibility as 'topicality', i.e., how likely the current topic can continue. Considering the difficulty to identify topicality, recent work also suggested it as 'predictability', i.e., how likely a referent will be the next referent. Our research suggested that neither topicality nor predictability acts as the unified scale of accessibility. Rather, we provided evidence to a multiple factor approach that referential expressions are guided by form-specific constraints. For example, in Mandarin, the use of overt pronouns and null pronouns was constrained by different sets of factors. Whereas both of them were constrained by grammatical role, overt pronouns were insensitive to semantic factors and topicality, which influence the use of null pronouns.
 
-* Hwang, H**.*,** Lam, S.-Y.,Ni, W., Ren, H. *(2020).The role of grammatical role and thematic role predictability in reference form production in Mandarin Chinese.* Under Review.
-* **Lam, S.-Y.*** and Hwang, H. (2021). Topicality is not the unified scale for pronoun production: Evidence from Mandarin Chinese. *In draft.*
+* **Hwang, H\*.**,Lam, S.-Y.,Ni, W., Ren, H. *(2020).The role of grammatical role and thematic role predictability in reference form production in Mandarin Chinese.* Under Review.
+* **Lam, S.-Y.\* ** and Hwang, H. (2021). Topicality is not the unified scale for pronoun production: Evidence from Mandarin Chinese. *In draft.*
 
 ### Cantonese Linguistics
