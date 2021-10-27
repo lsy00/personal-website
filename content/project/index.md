@@ -2,9 +2,31 @@
 title: Research Projects
 date: 2021-10-27T04:05:14.144Z
 featured: false
+
+---
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 1
+
+# Section title
+title: 
+
+# Section subtitle
+subtitle:
+
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
 ---
 ### **Pronoun Processing**
-
 **How are production and interpretation related in pronoun processing?**
 
 Tradition views in pronoun processing usually seem production and interpretation as the mirror images of each other. However, recent research has suggested that the two processes are not guided by the same set of factors, and therefore proposed a Bayesian approach to account for their relationship. My research investigated the validity of the new model in Chinese with new contexts. Apart from overt pronouns like English *s/he,* Mandarin also allows an unpronounced null pronoun (e.g., Ada received a letter, so Ø wrote a reply). Although the interpretation of overt pronouns can be well predicted by the Bayesian Model, the interpretation of null pronouns was not, and neither of the existing models was able to capture it. I am still working on this topic to see how this relationship differs in null pronouns and overt pronouns.
