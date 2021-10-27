@@ -5,7 +5,7 @@ featured: false
 ---
 
 ## **Pronoun Processing**
-<section style="background-color:AliceBlue;border-radius:5pt;padding:3pt;margin:7px;margin-top:0px;padding-top:0">
+<section style="border-radius:5pt;padding:3pt;margin:7px;margin-top:0px;padding-top:0">
 
 **How are production and interpretation related in pronoun processing?**
 
@@ -14,8 +14,8 @@ Tradition views in pronoun processing usually seem production and interpretation
 * **Lam, S.-Y.**\* & Hwang, H. (2021). Interpretation of null pronouns in Mandarin Chinese does not follow a Bayesian model. Short talk presented at the 34th Annual CUNY conference on Human Sentence Processing. [[Abstract](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_126.pdf)]
 
 </section>
-
-<section style="background-color:AliceBlue;border-radius:5pt;padding:3pt;margin:7px;padding-top:0">
+<hr>
+<section style="border-radius:5pt;padding:3pt;margin:7px;padding-top:0">
 
 **What determines the production of pronouns?**
 
@@ -25,5 +25,6 @@ The use of pronouns has been long argued to be associated with a concept 'access
 * **Lam, S.-Y.**\* and Hwang, H. (2021). Topicality is not the unified scale for pronoun production: Evidence from Mandarin Chinese. *In draft.*
 
 </section>
+<hr>
 
 ### Cantonese Linguistics
