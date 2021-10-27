@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: M
+font_size: L
 
 # SEO
 
@@ -91,7 +91,7 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  post: false
   project: true
   publication: true
   event: true
