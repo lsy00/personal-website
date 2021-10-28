@@ -18,14 +18,14 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! My name is Suet-Ying Lam. I am currently a senior undergraduate from HKU, with double majors in Linguistics and Computer Science. I am working with [Dr. Heeju Hwang](https://sites.google.com/site/heejuhwang/home?authuser=0) at HKU Language Processing Lab, with interests in two questions: 
+Hi! My name is Suet-Ying Lam. I am currently a senior undergraduate at HKU, majoring in Linguistics and Computer Science. I am working with [Dr. Heeju Hwang](https://sites.google.com/site/heejuhwang/home?authuser=0) at HKU Language Processing Lab, focusing on two research questions:
 
 1. How are production and interpretation related in pronoun processing? 
 2. What determines the production of pronouns?
 
-Apart from pronoun processing, I am also supervised by [Prof. Stephen Matthews](https://professorstephenmatthews.godaddysites.com/) to investigate the semantics and syntax of Cantonese double object constructions. 
+Apart from pronoun processing, I am also investigating the semantics and syntax of Cantonese double object constructions, supervised by [Prof. Stephen Matthews](https://professorstephenmatthews.godaddysites.com/). 
 
-You may find more details of my research projects as well as outcomes in the [Research tab](https://sylam.netlify.app/project/).
+You may find more details of my research projects as well as the outcomes in the [Research tab](https://sylam.netlify.app/project/).
 
 **About how to pronounce my name:** it can be roughly transcribed as \[syʔ yɪŋ], or in Mandarin \[ɕuə yiŋ]. If you still find it difficult, \[yɪŋ] or \[yiŋ] is also fine.
 
