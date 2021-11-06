@@ -27,8 +27,6 @@ Apart from pronoun processing, I am also investigating the semantics and syntax 
 
 You may find more details of my research projects as well as the outcomes in the [Research tab](https://sylam.netlify.app/project/).
 
-I grew up in Shenzhen, Guangdong, and received my seceondary and tertiary eductaion in Hong Kong. I am native in both Mandarin and Cantonese. I can also speak a little Japanese.
-
 **About how to pronounce my name:** it can be roughly transcribed as \[syʔ yɪŋ], or in Mandarin \[ɕuə yiŋ] 雪莹 (which is more preferred). If you still find it difficult, \[yɪŋ] or \[yiŋ] is also fine.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV {{< /staticref >}}.
