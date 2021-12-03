@@ -18,7 +18,7 @@ Tradition views in pronoun processing usually seem production and interpretation
 The use of pronouns has been long argued to be associated with a concept 'accessibility'. The more accessible the referent is, the more reduced forms will be used for it. Earlier research recognized accessibility as 'topicality', i.e., how likely the current topic can continue. Considering the difficulty to identify topicality, recent work also suggested it as 'predictability', i.e., how likely a referent will be the next referent. Our research suggested that neither topicality nor predictability acts as the unified scale of accessibility. Rather, we provided evidence to a multiple factor approach that referential expressions are guided by form-specific constraints. For example, in Mandarin, whereas both overt and null pronouns were constrained by grammatical role, only null pronouns were insensitive to semantic factors and topicality.
 
 * Hwang, H.\*, **Lam, S.-Y.**, Ni, W., Ren, H. (2020). The role of grammatical role and thematic role predictability in reference form production in Mandarin Chinese. *Under Review.*
-* **Lam, S.-Y.*** and Hwang, H. (2021). Topicality is not the unified scale for pronoun production: Evidence from Mandarin Chinese. *In draft.*
+* **Lam, S.-Y.*** and Hwang, H. (2021). How does topicality affect the choice of referential form? Evidence from Mandarin Chinese. *In draft.*
 
 <hr>
 
@@ -28,5 +28,5 @@ The use of pronouns has been long argued to be associated with a concept 'access
 
 There are three ditransitives in Cantonese, including a double object construction (DOC), i.e., *I give you a book* in English. Previous research mainly took a lexical semantics approach to categorize the meaning of the three constructions. I observed two facts contrasting with the current analysis: First, although verb types allowed in each construction differ, the difference was between the construction semantics but not lexical meaning; second, DOCs of different meanings do not share the same structure. My work provided a novel semantic categorization based on constructions a syntactic analysis. I argued that DOC is just carrying a further sense of transfer than other ditransitives, and proposed that there are at least two kinds of DOCs.
 
-* **Lam, S.Y.*** (2021). Revisiting Cantonese Ditransitives: Two types of Double Object Constructions in Chinese..
-Annual Research Forum of LSHK (LSHK-ARF). The City University of Hong Kong, Dec 4, 2021
+* **Lam, S.Y.*** (2021). Revisiting Cantonese Ditransitives: Two types of Double Object Constructions in Chinese.
+The 25th International Conference on Yue Dialects. The Chinese University of Hong Kong, Dec 18 - 19, 2021
