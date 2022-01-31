@@ -29,4 +29,7 @@ You may find more details of my research projects as well as the outcomes in the
 
 **About how to pronounce my name:** it can be roughly transcribed as \[syʔ yɪŋ], or in Mandarin \[ɕuə yiŋ] 雪莹 (which is more preferred). If you still find it difficult, \[yɪŋ] or \[yiŋ] is also fine.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV {{< /staticref >}} (Last updated: 2021/11/06).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV {{< /staticref >}} (Last updated: 2022/01/31).
+
+**News**: My work on pronoun processing "Topichood Effects on Different Types of Referential Forms: Evidence from
+Mandarin" has been accepted for poster presentation on HSP2022! 
