@@ -18,7 +18,7 @@ email: ""
 superuser: true
 highlight_name: true
 
-<meta name="google-site-verification" content="9QmviMP3R8q_NjkrzVe71vp0bOyNosSQWFkma_K8GBE" />
+
 ---
 Hi! My name is Suet-Ying Lam. I am currently a senior undergraduate at HKU, majoring in Linguistics and Computer Science. I am working with [Dr. Heeju Hwang](https://sites.google.com/site/heejuhwang/home?authuser=0) at HKU Language Processing Lab, focusing on two research questions:
 
