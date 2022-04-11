@@ -17,8 +17,6 @@ education:
 email: ""
 superuser: true
 highlight_name: true
-
-
 ---
 Hi! My name is Suet-Ying Lam. I am currently a senior undergraduate at HKU, majoring in Linguistics and Computer Science. I am working with [Dr. Heeju Hwang](https://sites.google.com/site/heejuhwang/home?authuser=0) at HKU Language Processing Lab, focusing on two research questions:
 
@@ -33,5 +31,4 @@ You may find more details of my research projects as well as the outcomes in the
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV {{< /staticref >}} (Last updated: 2022/01/31).
 
-**News**: My work on pronoun processing "Topichood Effects on Different Types of Referential Forms: Evidence from
-Mandarin" has been accepted for poster presentation on HSP2022! 
+**News**: I will start my PhD studies at UMass Amherst this fall!
